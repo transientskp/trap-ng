@@ -1,4 +1,7 @@
 notebook
 astropy
 bdsf
+matplotlib
+pandas
+seaborn
 
